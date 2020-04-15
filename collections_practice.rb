@@ -32,4 +32,5 @@ def kesha_maker(array)
   array.each do |string|
     new_arr << string.gsub(string[2], "$")
   end
+  new_arr;
 end

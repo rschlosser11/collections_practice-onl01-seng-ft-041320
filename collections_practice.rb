@@ -34,3 +34,7 @@ def kesha_maker(array)
   end
   new_arr;
 end
+
+def find_a
+  
+end

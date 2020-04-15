@@ -28,5 +28,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  
+  let new_arr = [];
+  array.each do |string|
+    string.repl
 end
